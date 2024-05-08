@@ -1,0 +1,48 @@
+html{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;}
+body{
+    width: 100%;
+    height: 100%;
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-image: url("j1.jpg");
+    background-size: cover;
+}
+#heading{
+    color: rgb(238, 96, 96);
+}
+input[type=submit]{
+    border: 2px;
+    background-color: antiquewhite;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 4px;
+    width: 100px;
+    height: 25px;
+}
+input[type=submit]:hover{
+    background-color: rgb(0, 4, 255);
+    transition: .5s ease-in-out;
+    color: rgb(255, 255, 255);
+}   
+input[type=number]:focus{
+    font-size: 20px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 10px;
+    height: 25px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+form{
+    position:absolute;
+    background-color:rgba(88, 110, 89, 0.753);
+    padding: 10px;
+    left: 40%;
+
+}

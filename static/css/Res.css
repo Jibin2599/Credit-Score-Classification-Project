@@ -1,0 +1,17 @@
+#result{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgba(141, 108, 65, 0.178);
+    padding: 50px;
+    
+}
+h1{
+    color: rgb(54, 206, 143);
+    text-align: center;
+}
+body{
+    background-image: url("j2.jpg");
+    background-size: cover;
+}   
